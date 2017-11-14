@@ -2,7 +2,7 @@
 
 --This research is still ongoing, no insights yet--
 
-Thanks to a friend (O.H) I saw that there is no code to import bulk data from Pubmed and manipulate it easily.
+Thanks to friends (O.H and A.T) we saw that there is no code to import bulk data from Pubmed and manipulate it easily.
 We wanted to see if there are any interesting patterns of the authors per each journal.
 Decided to use graphdb to explore the main hops by the universities, affilitaions, name.
 
